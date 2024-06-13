@@ -2,6 +2,8 @@
 
 ## Este código é um exemplo de uma aplicação web para exibir informações meteorológicas baseadas na localização fornecida pelo usuário. A aplicação inclui HTML, CSS e JavaScript. 
 
+![app](https://github.com/MikaValdivino/App-meteorologico/blob/main/e04f0210-e7c8-4910-bd6a-2783dbaef27f.jpg)
+
 # HTML
 O HTML define a estrutura básica da página web:
 
